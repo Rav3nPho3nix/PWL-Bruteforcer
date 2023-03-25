@@ -1,9 +1,6 @@
 # Description
 Website bruteforcer to find hidden file and folder
 
-# Image
-
-
 # Installation
 Run setup.bat
 
